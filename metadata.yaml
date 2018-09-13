@@ -1,0 +1,51 @@
+_repo: Pohjoisnavalta-paivantasaajalle-Helppotajuisia-esitelmia_51272
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Aatto S.
+    - Suppanen, Adolf
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+creator:
+  author:
+    agent_name: Brehm, Alfred Edmund
+    alias: Brehm, A. E. (Alfred Edmund)
+    birthdate: 1829
+    deathdate: 1884
+    gutenberg_agent_id: '6874'
+    url: http://www.gutenberg.org/2009/agents/6874
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Brehm
+description: ''
+gutenberg_issued: '2016-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51272'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tundras'
+- !lcsh 'Africa -- Description and travel'
+- !lcsh 'Ethnology -- Russia (Federation) -- Siberia'
+- !lcsh 'Animal behavior'
+- !lcsh 'Birds -- Lapland'
+- !lcsh 'Birds -- Danube River'
+- !lcsh 'Natural history'
+- !lcc 'QH'
+- !lcsh 'Siberia (Russia) -- Description and travel'
+- GITenberg
+tableOfContents: Lintuvuoret Pohjolassa -- Tundra ja sen eläinmaailma -- Aasian aro
+  ja sen eläimet -- Siperian metsät ja metsänriista sekä metsästys siellä -- Sisä-Afrikan
+  aro ja sen eläinkunta -- Nisäkästen vaellukset -- Lintujen rakkaus ja aviot -- Apinat
+  -- Karavaanit ja aavikkomatkat -- Maa ja asujamet Niilin koskien välillä -- Matka
+  Siperiassa -- Pakana ostjakit -- Aron vaeltelevat paimenet ja laumat -- Kirgiisein
+  kansan- ja perhe-elämä -- Siperian asukkaat ja pahantekijä-siirtolaiset -- Tutkimusmatkoja
+  Tonavalla.
+title: 'Pohjoisnavalta päiväntasaajalle: Helppotajuisia esitelmiä'
+url: http://www.gutenberg.org/ebooks/51272
