@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '6674'
     url: http://www.gutenberg.org/2009/agents/6674
     wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brehm, Alfred Edmund
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6874
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Brehm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51272#Pohjoisnavalta-paivantasaajalle-Helppotajuisia-esitelmia
 gutenberg_issued: '2016-02-21'
 gutenberg_type: Text
 identifiers:
